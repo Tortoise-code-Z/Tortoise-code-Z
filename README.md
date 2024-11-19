@@ -1,8 +1,6 @@
-## About me
-
 <h1 align="center">¡Hola soy Víctor👋!</h1>
 
-<img align="center" src=""> 
+![github](https://github.com/user-attachments/assets/9f34d2cc-9447-499d-991b-cc88d253b1e4)
 
 ## Sobre mí
 - Desarrollador Frontend Junior 🖌📚
