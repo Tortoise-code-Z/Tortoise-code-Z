@@ -15,8 +15,7 @@
 ## Estudios
 - Curso superior **Full-Stack** en programación de páginas web, MasterD.
     - **Nota**📄: 9.87
-  
-*Proximamente*...
+
 
 ## Mis habilidades
 ![Static Badge](https://img.shields.io/badge/Typescript-blue) ![Static Badge](https://img.shields.io/badge/Javascript-yellow)
@@ -30,8 +29,6 @@
 ## Mi portfolio
 *Próximamente...*
 
-## Redes sociales
-*Próximamente...*
 
 ```markdown
 ```javascript
