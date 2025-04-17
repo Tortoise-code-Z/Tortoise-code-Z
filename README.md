@@ -40,10 +40,6 @@ function vidaDeProgramador(sintaxis, errores, pasión, paciencia, esfuerzo, refa
     
     const vida = cicloDeErrores + productividad + aprendizaje - Math.pow(paciencia, 2) + (errores * 5);
     
-    // La vida de un programador es un proceso cíclico, de prueba y error,
-    // donde cada factor tiene un impacto en el siguiente paso. La paciencia, esfuerzo y pasión son constantes que
-    // determinan si el ciclo se convierte en un camino hacia el éxito o un ciclo infinito de depuración.
-    
     return vida;
 }
 ````
