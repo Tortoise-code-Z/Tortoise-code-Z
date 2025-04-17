@@ -14,8 +14,8 @@
 
 ## Estudios
 - Curso superior **Full-Stack** en programación de páginas web, MasterD.
-    - **Horas**👣: 948 h
-    - **Año**⏲: 2023 / 2024
+    - **Horas**⏲: 948 h
+    - **Año**👣: 2023 / 2024
     - **Nota**📚: 9.87
 
 
