@@ -27,7 +27,7 @@
 ![Static Badge](https://img.shields.io/badge/Apache-orange)
 
 ## Mi portfolio
-[Portfolio](https://github.com/Tortoise-code-Z/portfolio)
+[Ver Portfolio 💪💯](https://github.com/Tortoise-code-Z/portfolio)
 
 
 ```markdown
