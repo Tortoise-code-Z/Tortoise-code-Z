@@ -14,6 +14,8 @@
 
 ## Estudios
 - Curso superior **Full-Stack** en programación de páginas web, MasterD.
+    - **Horas**📄: 948 h
+    - **Año**📄: 2023 / 2024
     - **Nota**📄: 9.87
 
 
@@ -29,7 +31,7 @@
 ## Mi portfolio
 [Ver Portfolio 💪💯](https://github.com/Tortoise-code-Z/portfolio)
 
-
+##  
 ```markdown
 ```javascript
 
