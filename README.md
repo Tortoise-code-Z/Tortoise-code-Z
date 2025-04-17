@@ -31,17 +31,4 @@
 ## Mi portfolio
 [Ver Portfolio 💪💯](https://github.com/Tortoise-code-Z/portfolio)
 
-##  
-```markdown
-```javascript
 
-function vidaDeProgramador(sintaxis, errores, pasión, paciencia, esfuerzo, refactorizacion) {
-    const cicloDeErrores = (errores * Math.pow(2, sintaxis)) / (paciencia + 1);
-    const productividad = (pasión * esfuerzo) / (Math.log(sintaxis + 1) + refactorizacion);
-    const aprendizaje = (refactorizacion * Math.sqrt(pasión + esfuerzo)) * Math.exp(sintaxis / 10);
-    
-    const vida = cicloDeErrores + productividad + aprendizaje - Math.pow(paciencia, 2) + (errores * 5);
-    
-    return vida;
-}
-````
