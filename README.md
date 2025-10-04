@@ -9,15 +9,14 @@
 - ¿Rendirse? ¡Nunca! ✨💥
 - Despacito, con ritmo y ¡sin pausa! 🐢👣
 
-
-
-
 ## Estudios
 - Curso superior **Full-Stack** en programación de páginas web, MasterD.
     - **Horas**⏲: 948 h
     - **Año**👣: 2023 / 2024
     - **Nota**📚: 9.87
-
+- Bootcam **React + Typescript**, Academia HolaMundo.
+    - **Horas**⏲: 13 h
+    - **Año**👣: 2025
 
 ## Mis habilidades
 ![Static Badge](https://img.shields.io/badge/Typescript-blue) ![Static Badge](https://img.shields.io/badge/Javascript-yellow)
@@ -30,5 +29,6 @@
 
 ## Mi portfolio
 [Ver Portfolio 💪💯](https://github.com/Tortoise-code-Z/portfolio)
+[Ver Portfolio en web](https://github.com/Tortoise-code-Z/portfolio)
 
 
