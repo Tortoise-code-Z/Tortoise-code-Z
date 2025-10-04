@@ -36,7 +36,4 @@
 - **Email:** victorperez.brmmte@passmail.com
 - **LinkedIn:** www.linkedin.com/in/víctor-pérez-developer
 
-## 📝 Nota
-Este README es una presentación de mis habilidades y proyectos.  
-Si quieres colaborar, intercambiar ideas o simplemente saludar, ¡no dudes en contactarme!
 
