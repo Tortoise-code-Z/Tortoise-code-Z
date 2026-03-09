@@ -29,7 +29,7 @@
 
 ## Mi portfolio
 - [Ver Portfolio 💪💯](https://github.com/Tortoise-code-Z/portfolio)
-- [Ver Portfolio en web](https://tortoise-code-z.github.io/portfolio/)
+- [Ver Portfolio en web](https://portfolio-pink-psi-5fclt31av9.vercel.app/)
 
 
 ## 📫 Contacto
